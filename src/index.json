@@ -1,0 +1,67 @@
+{
+  "Success": true,
+  "ErrorMessage": null,
+  "Data": {
+    "trackingId": "20220927124406_15973",
+    "dailyOrderCount": "17",
+    "orderInfo": [
+      {
+        "id": 169897,
+        "userId": "101168",
+        "branchId": "1275",
+        "orderDate": "2022-09-27T12:44:07.000000Z",
+        "statusId": "3",
+        "status": "Recieved",
+        "total": "1300.00",
+        "subTotal": null,
+        "orderTypeId": null,
+        "createdby_id": null,
+        "dailyOrderId": "18",
+        "tableNo": null,
+        "order_resource": "5",
+        "amountPaid": "0.00",
+        "taxPercent": "0.00",
+        "taxAmount": "0.00",
+        "serviceCharge": "0.00",
+        "deliveryCharge": 0,
+        "tax_include": true,
+        "discountPer": "0.00",
+        "discountAmount": "0.00",
+        "amountReturn": "0.00",
+        "numofPersons": 0,
+        "orderEdit": false,
+        "orderDetail": [
+          {
+            "id": 328820,
+            "menuId": "4887",
+            "menuName": "Sliced Beef With Pineapple Half",
+            "price": "800.00",
+            "quantity": "1.00",
+            "menu_variation_id": null,
+            "variation_name": null,
+            "variation_price": 0,
+            "choices": []
+          }
+        ],
+        "loginUserId": null,
+        "loginUser": null,
+        "loginUserName": null,
+        "delivery_details": {
+          "address": "120",
+          "latitude": null,
+          "longitude": null,
+          "townId": null,
+          "blockId": null,
+          "userId": "101168",
+          "firstName": "Amir",
+          "lastName": "Amir",
+          "contact": "132734983",
+          "gender": null,
+          "dateBirth": "1970-01-01 00:00:10",
+          "instructions": null
+        }
+      }
+    ]
+  },
+  "Status": 200
+}
